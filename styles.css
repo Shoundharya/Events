@@ -1,0 +1,77 @@
+.navbar{
+  font-family: 'Vollkorn', serif;
+  background-color: #E8A0BF;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+#title{
+  background-color: #FDCEDF;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+#features{
+  background-color: #F8E8EE;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: none;
+}
+
+#testimonials{
+  background-color: #F8E8EE;
+}
+
+#gallery{
+  background-color: #F8E8EE;
+}
+
+#pricing{
+  background-color: #F8E8EE;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#Contacts{
+  background-color: #FDCEDF;
+  padding-top: 40px;
+  padding-bottom: : 40px;
+}
+
+#footer{
+  background-color: #FDCEDF;
+  padding-top: 100px;
+}
+
+.ah1{
+  margin-top:80px;
+}
+
+.container{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+
+
+.featureh3{
+  padding-top: 60px;
+}
+body{
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.text-center{
+  margin-top: none;
+}
+
+h1{
+  margin: 20px 20px 80px 20px;
+}
+
+.footer-link{
+  padding: 0 18px;
+}
